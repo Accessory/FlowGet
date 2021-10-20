@@ -1,4 +1,4 @@
-# FlowHttp
+# FlowGet
 
 ## Introduction
 Http(s) Server that can list and serve files and folders.
